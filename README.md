@@ -16,4 +16,7 @@ Build your ROS workspace using ```colcon build```.
 Source ROS, using ```./source_ros.sh``` or ```source install/setup.bash```
 
 ### Launch ROSboard
-```./start_rosboard.sh``` to launch the dashboard. Have fun!
+```./start_rosboard.sh``` to launch the dashboard.
+
+### Open the dashboard
+Visit ```http://localhost:8888``` or ```http://your-robot-ip:8888/```. Open the sidebar to add topics to the main dashboard. Have fun!
